@@ -10,6 +10,6 @@ if you don't know how to use git you can drag and drop your files when you get t
 
 Do not edited tests.py doing so will inform the judges and may end in expulsion from the competition
 
-## Aditional information
+## Additional information
 
 you can run tests.py on your own to obtain gain information about general completion of your code. 
