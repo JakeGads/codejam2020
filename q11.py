@@ -1,5 +1,5 @@
 def main(str1, str2):
-    return "return"
+    return str1.count(str2) + str1[::-1].count(str2)
 
 if __name__ == "__main__":
     print(
