@@ -1,4 +1,4 @@
-def main(int1: int):        
+def main(int1):        
     return "return"
 
 if __name__ == "__main__":

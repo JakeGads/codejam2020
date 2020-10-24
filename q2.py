@@ -1,4 +1,4 @@
-def main(str1: str):
+def main(str1):
     return "Your return here"
 
 if __name__ == "__main__":

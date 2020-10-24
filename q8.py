@@ -1,4 +1,4 @@
-def main(int1: int, int2: int, int3: int, int4: int, int5:int, int6:int, int7:int, int8:int):
+def main(int1, int2, int3, int4, int5, int6, int7, int8):
     return ""   
     
 if __name__ == "__main__":

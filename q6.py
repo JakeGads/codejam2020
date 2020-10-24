@@ -1,6 +1,6 @@
-def main(str1: str, str2: str, int1: int, int2: int):
+def main(str1, str2, int1, int2):
     return "return"
-    
+
 if __name__ == "__main__":
     print(
         main(
