@@ -1,14 +1,12 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
+# How to
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+Each file matches one of the questions 1-11, you will edit the main function until success and then reupload it to github (see below if you don't know how)
 
-### Setup command
-`sudo -H pip3 install pytest`
+## Uploading files
 
-### Run command
-`pytest`
+if you don't know how to use git you can drag and drop your files when you get to finish them. Upload them as soon as you finish the problem for the maximum amount of points
 
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+## Warnings
+
+Do not edited tests.py doing so will inform the judges and may end in expulsion from the competition
+
