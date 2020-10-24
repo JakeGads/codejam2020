@@ -13,3 +13,5 @@ Do not edited tests.py doing so will inform the judges and may end in expulsion 
 ## Additional information
 
 you can run tests.py on your own to obtain gain information about general completion of your code. 
+
+## Also you can join a zoom call with me in it see email for links
